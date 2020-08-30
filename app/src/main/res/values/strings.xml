@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SnagList</string>
+    <string name="button2">upload</string>
+    <string name="button">Take a snap</string>
+    <string-array name="departments">
+        <item>Select</item>
+        <item>IT</item>
+        <item>TOPS</item>
+        <item>TS</item>
+        <item>Security</item>
+    </string-array>
+
+    <string name="dept">Department</string>
+    <string name="comments">Comments</string>
+    <string name="usernametext">Username</string>
+    <string name="passwordtext">Password</string>
+   <string name="logintext">Login</string>
+</resources>
